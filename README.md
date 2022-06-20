@@ -1,3 +1,7 @@
-# projeto-apeperia
-Arquivos do projeto para a Apeperia
-# Site-Apeperia
+# Site Apeperia
+
+Site em HTML e CSS adaptado para mobile e tablet, desenvolvido durante o curso Layouts Responsivos.
+
+Link: 
+
+
