@@ -99,7 +99,7 @@
     }
     
     .planos__cartoes {
-        max-width: 300px;  
+        min-width: 300px;  
     }  
 }
 
