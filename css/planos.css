@@ -92,24 +92,19 @@
 }
 
 @media screen and (min-width: 768px) {
-    .planos {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
+    .cartao {
+        max-width: 400px;
     }
-    
-    .planos__cartoes {
-        min-width: 500px;  
-    }  
 }
 
 @media screen and (min-width: 1024px) {
     .planos__cartoes {
         flex-direction: row;
-        justify-content: center;
+        justify-content: space-between;
+        align-items: flex-end;
     }
 
     .cartao {
-        max-width: 500px;
+        max-width: 300px;
     }
 }
